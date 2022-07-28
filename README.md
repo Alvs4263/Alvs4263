@@ -14,9 +14,10 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     </div>
-  <img align="center" alt="Gui-JavaScript" height="30" width="20" src="https://img1.gratispng.com/20180716/ohk/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c6a88d27.2128590215317498306904.jpg">
-    </div> /r
-  
+  <img align="center" alt="Gui-JavaScript" height="30" width="40" src="https://img1.gratispng.com/20180716/ohk/kisspng-node-js-javascript-react-logo-express-js-javascript-logo-5b4ca5c6a88d27.2128590215317498306904.jpg">
+    </div>
+  <img align="center" alt="Gui-JavaScript" height="30" width="40" src="https://www.gratispng.com/png-4udhf0/">
+    </div>
   ##
   
   </div>
