@@ -2,7 +2,7 @@
 
 - 🔭 Hoje Trabalho em uma empresa de engenharia como Assistende Administrativo.
 - 🌱 Atualmente curso Analise e Desenvolvimento de Sistemas na faculdade UNIP (3° Perído).
-- 📫 Contate-me no meu e-mail: guigui.a.j@gmail.com .
+- 📫 Contate-me no meu e-mail: guilherme.a.j.c2002@gmail.com .
 - 📱 Entre em contato via whatsapp: https://contate.me/Alvs4263 .
 
 
