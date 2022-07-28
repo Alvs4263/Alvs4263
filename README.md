@@ -14,6 +14,8 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     </div>
+  <img align="center" alt="Gui-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    </div>
   
   ##
   
