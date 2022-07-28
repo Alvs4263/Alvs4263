@@ -14,7 +14,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     </div>
-  <img align="center" alt="Gui-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gui-JavaScript" height="30" width="40" src="https://img1.gratispng.com/20180821/gob/kisspng-product-design-logo-brand-trademark-reporting-tool-for-javascript-and-html5-component-5b7c7899983c29.1064938515348839936236.jpg">
     </div>
   
   ##
